@@ -1,0 +1,25 @@
+Use the Playwright MCP Server to navigate to
+----------TEST CASE NAME "Reporte de Credito Especial"------------------
+
+Como obligatorio primero ingresar analizar la pagina y buscar los selectores adecuados y entiendas el comportamiento, Si necesitas ejecutar algo yo te dare acceso. 
+Segundo como obligatorio, no hardcodear los timeout por cada elemento. 
+
+ingresa a la pagina https://www.circulodecredito.com.mx/
+da click en Persona y se abrirá una lista y seguido dar click en credit score. 
+dar click en quiero mi score
+llenar el formulario de la siguiente manera: 
+Primer: Adrian
+segundo: testing
+Paterno: Araiza
+Materno: Lazcano
+Fecha de nacimiento: 01/01/1990
+RFC: ARLA900101H29
+Celular: 5545345678
+correo electrónico: testing@gmail.com
+Domicilio: 55765 y dar click en BUSCAR
+Colonia: LOMAS DE TECAMAC
+Calle: testing 
+Numero exterior: 4
+Click en Siguiente Paso 
+
+Toma captura de paso por paso 

@@ -1,0 +1,11 @@
+Use the Playwright MCP Server to navigate to https://www.saucedemo.com.
+
+Flujo de login con credenciales válidas en modo UI.
+
+Escenario:
+- Ir a la página de login
+- Ingresar el usuario definido en standard_user
+- Ingresar la contraseña definida en secret_sauce
+- Hacer clic en el botón de login
+- Validar que el usuario sea redirigido al inventario correctamente
+- Capturar evidencia por paso y guardar video
