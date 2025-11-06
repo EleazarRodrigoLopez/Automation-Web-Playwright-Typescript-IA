@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Logs y reportes generados
+logs/
+playwright-report/
+test-results/
+allure-results/
+Reporte_Automatizado_Final.docx
+
+# Evidencias de pruebas
+screenshots/
+videos/
+
+# Archivos de entorno (¡nunca subir secretos!)
+.env
+
+# Archivos del sistema operativo
+.DS_Store
+
+# Archivos de compilación de TypeScript
+dist/
