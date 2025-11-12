@@ -1,0 +1,17 @@
+Use the Playwright MCP Server to navigate to
+----------TEST CASE NAME "Reporte de Credito Especial"------------------
+
+Como obligatorio primero ingresar analizar la pagina y buscar los selectores adecuados y entiendas el comportamiento, Si necesitas ejecutar algo yo te dare acceso. 
+Segundo como obligatorio, no hardcodear los timeout por cada elemento. 
+
+ingresa a la pagina https://grupobalstage.prod.acquia-sites.com/ingresar
+
+apartir de ahi genrame los scenarios de prueba, basandote en la estructura del archivo src\flow\tests\login.spec.ts
+y quiero que me generes todo los scenarios definidos y fiuncionales, pero antes de entregamerlo valida que se hallan generado correctamente y despues ejecutalo
+
+Scenarios:
+validaalidar carga de pagina
+Validar login correcto
+Validar login incorrecto
+
+puedes basarte en este promt: prompt-base-inteligente.txt

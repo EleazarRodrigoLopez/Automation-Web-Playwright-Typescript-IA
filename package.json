@@ -9,6 +9,7 @@
     "test:debug": "playwright test --debug",
     "test:headed": "playwright test --headed",
     "test:login": "playwright test src/flow/tests/login.spec.ts --headed",
+    "test:login_bal": "playwright test src/flow/tests/grupoBalLogin.spec.ts --headed",
     "bdd": "cucumber-js",
     "report": "playwright show-report"
   },
