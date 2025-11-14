@@ -1,22 +1,29 @@
-# Dependencias
+# Node modules
 node_modules/
 
-# Logs y reportes generados
-logs/
-playwright-report/
-test-results/
-allure-results/
-Reporte_Automatizado_Final.docx
+# Playwright specific
+/test-results/
+/playwright-report/
+/playwright/.cache/
 
-# Evidencias de pruebas
-screenshots/
-videos/
-
-# Archivos de entorno (¡nunca subir secretos!)
+# Environment variables
 .env
 
-# Archivos del sistema operativo
-.DS_Store
+# Build outputs
+/dist/
 
-# Archivos de compilación de TypeScript
-dist/
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+.DS_Store
+Thumbs.db
