@@ -6,16 +6,36 @@ node_modules/
 /playwright-report/
 /playwright/.cache/
 
+# Screenshots and Videos
+/screenshots/
+/videos/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.webm
+
+# Test artifacts
+/evidencias/
+*.trx
+*.xml
+*.json
+
 # Environment variables
 .env
+.env.local
+.env.*.local
 
 # Build outputs
 /dist/
+/build/
 
 # IDE specific files
 .idea/
 .vscode/
 *.iml
+*.swp
+*.swo
 
 # Logs
 logs/
@@ -27,3 +47,5 @@ yarn-error.log*
 # Temporary files
 .DS_Store
 Thumbs.db
+*.tmp
+temp/
