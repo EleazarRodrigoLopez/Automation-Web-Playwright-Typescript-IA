@@ -1,0 +1,15 @@
+Navigate to https://grupobalstage.prod.acquia-sites.com/ingresar
+
+Please inspect the login page and provide me with:
+
+1. The exact CSS selector or XPath for the email/correo input field
+2. The exact CSS selector or XPath for the password/contraseña input field
+3. The exact CSS selector or XPath for the login/continue/submit button
+4. Any other relevant elements (form container, error messages, etc.)
+
+Also, take a screenshot of the login form so I can see the current state.
+
+After inspection, provide the selectors in this format:
+Email selector: [selector]
+Password selector: [selector]
+Login button selector: [selector]

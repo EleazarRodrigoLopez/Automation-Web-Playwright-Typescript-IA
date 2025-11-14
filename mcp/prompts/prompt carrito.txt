@@ -1,0 +1,12 @@
+Use the Playwright MCP Server to navigate to https://www.saucedemo.com.
+
+Escenario: Agregar productos al carrito. 
+
+Agregar al carrito el producto llamado Sauce Labs Backpack.
+Agregar al carrito el producto llamado Sauce Labs Bike Light.
+Da click en el icono del carrito.
+Verifica que seas redirigido correctamente.
+Verifica que estén los 2 productos. 
+
+
+Capturar evidencia por paso y guardar video
